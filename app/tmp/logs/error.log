@@ -1,0 +1,209 @@
+2012-02-29 01:37:30 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-29 01:38:53 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-29 01:39:02 Error: [MissingControllerException] Controller class Como-chegarController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-29 01:39:12 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-29 01:42:34 Error: [MissingControllerException] Controller class PaginaController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-29 01:42:39 Error: [MissingControllerException] Controller class PaginaController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-29 01:42:42 Error: [MissingControllerException] Controller class PaginaController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-29 01:43:15 Error: [MissingControllerException] Controller class PagineaController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-29 01:46:55 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-29 01:47:01 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-29 01:54:14 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-29 01:54:26 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-29 01:54:32 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-29 02:26:21 Error: [MissingViewException] View file "C:\xampp\htdocs\teste1\app\View\Pages\pagina\sobre.ctp" is missing.
+#0 C:\xampp\htdocs\teste1\lib\Cake\View\View.php(360): View->_getViewFileName('pagina/sobre')
+#1 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(900): View->render('pagina/sobre', NULL)
+#2 C:\xampp\htdocs\teste1\lib\Cake\Controller\PagesController.php(73): Controller->render('pagina/sobre')
+#3 [internal function]: PagesController->display('pagina', 'sobre')
+#4 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-02-29 02:26:26 Error: [MissingViewException] View file "C:\xampp\htdocs\teste1\app\View\Pages\pagina\pagina\sobre.ctp" is missing.
+#0 C:\xampp\htdocs\teste1\lib\Cake\View\View.php(360): View->_getViewFileName('pagina/pagina/s...')
+#1 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(900): View->render('pagina/pagina/s...', NULL)
+#2 C:\xampp\htdocs\teste1\lib\Cake\Controller\PagesController.php(73): Controller->render('pagina/pagina/s...')
+#3 [internal function]: PagesController->display('pagina', 'pagina', 'sobre')
+#4 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-02-29 02:26:44 Error: [MissingViewException] View file "C:\xampp\htdocs\teste1\app\View\Pages\pagina\como-chegar.ctp" is missing.
+#0 C:\xampp\htdocs\teste1\lib\Cake\View\View.php(360): View->_getViewFileName('pagina/como-che...')
+#1 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(900): View->render('pagina/como-che...', NULL)
+#2 C:\xampp\htdocs\teste1\lib\Cake\Controller\PagesController.php(73): Controller->render('pagina/como-che...')
+#3 [internal function]: PagesController->display('pagina', 'como-chegar')
+#4 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-02-29 02:26:48 Error: [MissingViewException] View file "C:\xampp\htdocs\teste1\app\View\Pages\pagina\pagina\sobre.ctp" is missing.
+#0 C:\xampp\htdocs\teste1\lib\Cake\View\View.php(360): View->_getViewFileName('pagina/pagina/s...')
+#1 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(900): View->render('pagina/pagina/s...', NULL)
+#2 C:\xampp\htdocs\teste1\lib\Cake\Controller\PagesController.php(73): Controller->render('pagina/pagina/s...')
+#3 [internal function]: PagesController->display('pagina', 'pagina', 'sobre')
+#4 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-02-29 02:27:29 Error: [MissingControllerException] Controller class ~Controller could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-29 02:27:33 Error: [MissingControllerException] Controller class ~Controller could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-29 02:28:48 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-29 02:29:11 Error: [MissingControllerException] Controller class SobreController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-02-29 02:29:35 Error: [MissingControllerException] Controller class HomeController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-11 01:20:17 Error: [MissingViewException] View file "C:\xampp\htdocs\teste1\app\View\Pages\inscricoes_obrigado.ctp" is missing.
+#0 C:\xampp\htdocs\teste1\lib\Cake\View\View.php(360): View->_getViewFileName('inscricoes_obri...')
+#1 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(900): View->render('inscricoes_obri...', NULL)
+#2 C:\xampp\htdocs\teste1\lib\Cake\Controller\PagesController.php(73): Controller->render('inscricoes_obri...')
+#3 [internal function]: PagesController->display('inscricoes_obri...')
+#4 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-11 01:36:01 Error: [MissingActionException] Action InscricoesController::como-chegar() could not be found.
+#0 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-11 01:36:04 Error: [MissingActionException] Action InscricoesController::como-chegar() could not be found.
+#0 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-11 01:36:05 Error: [MissingActionException] Action InscricoesController::sobre() could not be found.
+#0 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-11 01:40:15 Error: [MissingActionException] Action InscricoesController::sobre() could not be found.
+#0 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(InscricoesController), Object(CakeRequest), Object(CakeResponse))
+#2 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-03-11 01:40:18 Error: [MissingControllerException] Controller class Como-chegarController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-11 01:42:52 Error: [MissingViewException] View file "C:\xampp\htdocs\teste1\app\View\Pages\local.ctp" is missing.
+#0 C:\xampp\htdocs\teste1\lib\Cake\View\View.php(360): View->_getViewFileName('local')
+#1 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(900): View->render('local', NULL)
+#2 C:\xampp\htdocs\teste1\lib\Cake\Controller\PagesController.php(73): Controller->render('local')
+#3 [internal function]: PagesController->display('local')
+#4 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-11 01:42:55 Error: [MissingViewException] View file "C:\xampp\htdocs\teste1\app\View\Pages\local.ctp" is missing.
+#0 C:\xampp\htdocs\teste1\lib\Cake\View\View.php(360): View->_getViewFileName('local')
+#1 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(900): View->render('local', NULL)
+#2 C:\xampp\htdocs\teste1\lib\Cake\Controller\PagesController.php(73): Controller->render('local')
+#3 [internal function]: PagesController->display('local')
+#4 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-11 01:43:06 Error: [MissingViewException] View file "C:\xampp\htdocs\teste1\app\View\Pages\local.ctp" is missing.
+#0 C:\xampp\htdocs\teste1\lib\Cake\View\View.php(360): View->_getViewFileName('local')
+#1 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(900): View->render('local', NULL)
+#2 C:\xampp\htdocs\teste1\lib\Cake\Controller\PagesController.php(73): Controller->render('local')
+#3 [internal function]: PagesController->display('local')
+#4 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-11 01:44:19 Error: [MissingControllerException] Controller class LocalController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-11 01:44:21 Error: [MissingViewException] View file "C:\xampp\htdocs\teste1\app\View\Pages\local.ctp" is missing.
+#0 C:\xampp\htdocs\teste1\lib\Cake\View\View.php(360): View->_getViewFileName('local')
+#1 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(900): View->render('local', NULL)
+#2 C:\xampp\htdocs\teste1\lib\Cake\Controller\PagesController.php(73): Controller->render('local')
+#3 [internal function]: PagesController->display('local')
+#4 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-11 01:44:23 Error: [MissingViewException] View file "C:\xampp\htdocs\teste1\app\View\Pages\local.ctp" is missing.
+#0 C:\xampp\htdocs\teste1\lib\Cake\View\View.php(360): View->_getViewFileName('local')
+#1 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(900): View->render('local', NULL)
+#2 C:\xampp\htdocs\teste1\lib\Cake\Controller\PagesController.php(73): Controller->render('local')
+#3 [internal function]: PagesController->display('local')
+#4 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-11 01:44:48 Error: [MissingViewException] View file "C:\xampp\htdocs\teste1\app\View\Pages\local.ctp" is missing.
+#0 C:\xampp\htdocs\teste1\lib\Cake\View\View.php(360): View->_getViewFileName('local')
+#1 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(900): View->render('local', NULL)
+#2 C:\xampp\htdocs\teste1\lib\Cake\Controller\PagesController.php(73): Controller->render('local')
+#3 [internal function]: PagesController->display('local')
+#4 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-11 01:44:53 Error: [MissingViewException] View file "C:\xampp\htdocs\teste1\app\View\Pages\local.ctp" is missing.
+#0 C:\xampp\htdocs\teste1\lib\Cake\View\View.php(360): View->_getViewFileName('local')
+#1 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(900): View->render('local', NULL)
+#2 C:\xampp\htdocs\teste1\lib\Cake\Controller\PagesController.php(73): Controller->render('local')
+#3 [internal function]: PagesController->display('local')
+#4 C:\xampp\htdocs\teste1\lib\Cake\Controller\Controller.php(473): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(104): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\teste1\lib\Cake\Routing\Dispatcher.php(86): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-03-11 13:06:48 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-11 13:07:50 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-03-16 20:56:29 Error: [MissingControllerException] Controller class ThearlismarsController could not be found.
+#0 C:\xampp\htdocs\teste1\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

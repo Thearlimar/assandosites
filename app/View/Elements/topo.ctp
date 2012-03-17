@@ -1,0 +1,1 @@
+<?php echo $this->Html->image('banner12.jpg', array('id' => 'logo')) ?>
